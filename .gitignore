@@ -18,6 +18,9 @@ __pycache__/
 # Downloaded transcripts
 transcripts/
 
+# Kiro specs
+.kiro/
+
 # IDE
 .vscode/
 .idea/
