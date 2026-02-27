@@ -8,14 +8,29 @@ A simple tool that downloads meeting transcripts from your Webex meetings.
 - Internet connection
 - A Webex account with access to meeting transcripts
 
+## Download the Project
+
+### Option 1: Clone with Git (if you have Git installed)
+
+```
+git clone https://github.com/NxP4Code/webex-transcript-downloader.git
+cd webex-transcript-downloader
+```
+
+### Option 2: Download as ZIP
+
+1. Go to https://github.com/NxP4Code/webex-transcript-downloader
+2. Click the green **Code** button → **Download ZIP**
+3. Extract the ZIP file to a folder on your computer
+
 ## Quick Setup
 
 ### Mac
 
 1. Open **Terminal** (search for "Terminal" in Spotlight)
-2. Navigate to this folder:
+2. Navigate to the project folder:
    ```
-   cd path/to/webex-transcripts
+   cd webex-transcript-downloader
    ```
 3. Run the setup script:
    ```
@@ -25,9 +40,9 @@ A simple tool that downloads meeting transcripts from your Webex meetings.
 ### Windows
 
 1. Open **PowerShell** (search for "PowerShell" in the Start menu)
-2. Navigate to this folder:
+2. Navigate to the project folder:
    ```
-   cd path\to\webex-transcripts
+   cd webex-transcript-downloader
    ```
 3. Run the setup script:
    ```
