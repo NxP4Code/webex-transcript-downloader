@@ -54,15 +54,13 @@ Before running the tool, you need a personal access token from Webex:
 ### Mac
 
 ```
-source venv/bin/activate
-python webex_transcript_downloader.py
+bash run_mac.sh
 ```
 
 ### Windows
 
 ```
-venv\Scripts\activate
-python webex_transcript_downloader.py
+powershell -ExecutionPolicy Bypass -File run_windows.ps1
 ```
 
 The tool will:
