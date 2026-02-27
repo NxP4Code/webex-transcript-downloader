@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Environment variables (contains access tokens)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Logs
+*.log
+
+# Downloaded transcripts
+transcripts/
+
+# IDE
+.vscode/
+.idea/
