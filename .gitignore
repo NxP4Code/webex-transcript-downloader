@@ -4,6 +4,8 @@ venv/
 # Environment variables (contains access tokens)
 .env
 
+.kiro/
+
 # Python
 __pycache__/
 *.pyc
